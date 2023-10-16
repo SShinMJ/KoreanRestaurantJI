@@ -6,22 +6,13 @@
     </a>
     <br><br>
     <a href="https://github.com/Team-KyunYoung/KoreanRestaurantJI_Front">
-      :desktop_computer: Frontend
+      :desktop_computer: Frontend Code
     </a>
     <span> | </span>
     <a href="https://github.com/Team-KyunYoung/KoreanRestaurantJI_Back">
-      :gear: Backend
+      :gear: Backend Code
     </a>
   </h3>
-  <br>
-  <h4>
-    배포 주소 : https://www.koreanrestaurantji.ml<br>
-  </h4>
-  <p>
-    공유 계정을 통해 체험 가능합니다.<br>
-    아이디 : testuser@test.com<br>
-    비밀번호 : testuser1!
-  </p>
 </div>
 
 <br>
